@@ -1,3 +1,4 @@
+<img width="1568" height="582" alt="Screenshot 2025-06-23 112037" src="https://github.com/user-attachments/assets/21d1add6-e35c-4a81-9ebb-78a320402e97" />
 #AI-Powered Resource Allocation Agent | Automated Team Builder using (n8n) & OpenAI API. 
 
 **Overview**
